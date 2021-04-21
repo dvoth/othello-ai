@@ -1,0 +1,3 @@
+﻿  Othello.cpp
+c:\users\dalton\google drive\cs438\othello\othello\othello\othello.cpp(93): warning C4101: 'r': unreferenced local variable
+  Othello.vcxproj -> C:\Users\Dalton\Google Drive\CS438\Othello\Othello\Debug\Othello.exe
